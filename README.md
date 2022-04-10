@@ -1,2 +1,2 @@
 # FoxEmailBlocker
-Destroyin Bigots Inboxs one at a time.
+Destroying Bigots Inboxs one at a time.
